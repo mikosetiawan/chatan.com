@@ -1,0 +1,10 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-night{
+    background-color: #4e426d;
+}
+.radius{
+    border-radius: 10px;
+}
